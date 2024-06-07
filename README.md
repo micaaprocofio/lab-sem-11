@@ -1,7 +1,7 @@
 # lab-sem-11
 
-**Parte 1
-**
+<bold>Parte 1</bold>
+
 Busqueda de "Azure Kubernetes Service" dentro de Crear Recursos 
 <img width="1333" alt="Captura de pantalla 2024-06-06 a la(s) 11 17 42 p  m" src="https://github.com/micaaprocofio/lab-sem-11/assets/163476050/18ef346e-c399-4758-83a5-ec093912c330">
 
