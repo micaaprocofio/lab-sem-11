@@ -2,6 +2,7 @@
 
 <h3><b>Parte 1</b></h3>
 
+<h4> Paso 1 </h4>
 Búsqueda de "Azure Kubernetes Service" dentro de Crear Recursos 
 <img width="1333" alt="Captura de pantalla 2024-06-06 a la(s) 11 17 42 p  m" src="https://github.com/micaaprocofio/lab-sem-11/assets/163476050/18ef346e-c399-4758-83a5-ec093912c330">
 
@@ -14,13 +15,15 @@ Se implemento correctamente el Clúster
 Información general del Clúster ya creado
 <img width="1437" alt="Captura de pantalla 2024-06-06 a la(s) 11 47 42 p  m" src="https://github.com/micaaprocofio/lab-sem-11/assets/163476050/7560cdb5-811a-484d-97a5-8447438ec418">
 
+<h4> Paso 2/3 </h4>
+
 Conexión al Clúster, establecer subscripción y descargar credenciales del Clúster
 <img width="1437" alt="Captura de pantalla 2024-06-06 a la(s) 11 56 01 p  m" src="https://github.com/micaaprocofio/lab-sem-11/assets/163476050/08de6a07-d15f-465c-8d0c-423723a8245d">
 
 Nodos configurados en la creación del Clúster
 <img width="1437" alt="Captura de pantalla 2024-06-06 a la(s) 11 57 12 p  m" src="https://github.com/micaaprocofio/lab-sem-11/assets/163476050/e72e8f7f-0357-4092-95a3-fad069ad77d1">
 
-
+----------------
 <h3><b>Parte 2</b></h3>
 
 <h4> Paso 1 </h4>
